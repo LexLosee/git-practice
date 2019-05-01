@@ -1,3 +1,2 @@
 console.log('hello world')
-console.log('i made a chage
-')
+console.log('i made a change')
